@@ -1,0 +1,15 @@
+com/example/demo/actuator/Function.class
+com/example/demo/svc/DummyService.class
+com/example/demo/SpringbootTestApplication.class
+com/example/demo/actuator/Feature$FeatureBuilder.class
+com/example/demo/fun/FunService.class
+com/example/demo/actuator/BCM$BCMBuilder.class
+com/example/demo/actuator/BcmReportEndpoint.class
+com/example/demo/actuator/Function$FunctionBuilder.class
+com/example/demo/HelloWorldService.class
+com/example/demo/annotations/Feature.class
+com/example/demo/actuator/Feature.class
+com/example/demo/svc/ByeByeService.class
+com/example/demo/Greetings.class
+com/example/demo/actuator/BCM.class
+com/example/demo/annotations/Function.class

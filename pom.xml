@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>springboot-test</artifactId>
+	<artifactId>springboot-custom</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-test</name>
+	<name>springboot-custom-actuator</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
